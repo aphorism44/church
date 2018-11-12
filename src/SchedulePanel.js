@@ -17,11 +17,12 @@ class SchedulePanel extends Component {
           <Col xs={6} md={6} lg={6}>
             <br/><br/>
             <strong>Upcoming Special Services - 2018</strong>
-            <br/><br/>March 25, 9:30 a.m., Palm Sunday
-            <br/><br/>March 29, 6:30 p.m., Agape' Meal, Maundy Thursday
-            <br/><br/>March 30, 6:30 p.m., Tenebrae, Good Friday
-            <br/><br/>April 1, 9:30 a.m., Easter, followed by breakfast
-            <br/><br/><em>Please see the About page for details on these services.</em>
+            <br/><br/>November 21, 6:30 p.m., American Thanksgiving Service
+            <br/><em>Followed by pie and fellowship</em>
+            <br/><br/>November 25, Advent Setup and Fellowship
+            <br/><em>Held after the 9 a.m. Sunday service</em>
+            <br/><br/>December 24, 7 p.m., American Thanksgiving Service
+            <br/><em>Harp performance starts at 6:30 p.m.</em>
           </Col>
         </Row>
       </Grid>
