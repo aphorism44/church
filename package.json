@@ -12,7 +12,7 @@
     "react-dom": "^16.2.0",
     "react-native-web": "^0.1.16",
     "react-scripts": "1.0.17",
-    "bootstrap": "^3.3.7",
+    "bootstrap": ">=4.1.2",
     "macaddress": ">=0.2.9",
     "lodash": ">=4.17.5",
     "hoek": ">=4.2.1",

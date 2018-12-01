@@ -17,10 +17,6 @@ class SchedulePanel extends Component {
           <Col xs={6} md={6} lg={6}>
             <br/><br/>
             <strong>Upcoming Special Services - 2018</strong>
-            <br/><br/>November 21, 6:30 p.m., American Thanksgiving Service
-            <br/><em>Followed by pie and fellowship</em>
-            <br/><br/>November 25, Advent Setup and Fellowship
-            <br/><em>Held after the 9:30 a.m. Sunday service</em>
             <br/><br/>December 24, 7 p.m., Joyous Christmas Service
             <br/><em>Harp performance starts at 6:30 p.m.</em>
           </Col>
