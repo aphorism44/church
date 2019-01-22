@@ -16,9 +16,8 @@ class SchedulePanel extends Component {
           </Col>
           <Col xs={6} md={6} lg={6}>
             <br/><br/>
-            <strong>Upcoming Special Services - 2018</strong>
-            <br/><br/>December 24, 7 p.m., Joyous Christmas Service
-            <br/><em>Harp performance starts at 6:30 p.m.</em>
+            <strong>Upcoming Special Services - 2019</strong>
+            <br/><em>To be announced</em>
           </Col>
         </Row>
       </Grid>
