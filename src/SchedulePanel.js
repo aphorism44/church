@@ -16,8 +16,11 @@ class SchedulePanel extends Component {
           </Col>
           <Col xs={6} md={6} lg={6}>
             <br/><br/>
-            <strong>Upcoming Special Services - 2019</strong>
-            <br/><em>To be announced</em>
+            <strong>Upcoming Events - 2019</strong>
+            <ul>
+            <li>Sunday, Feb. 17, <em>Valentine's Day Fellowship and Mini-Bake Sale</em>, takes place after morning worship.</li>
+            <li>Sunday, Feb. 24, <em>Annual Church Meeting</em>, takes place after morning worship.</li>
+            </ul>
           </Col>
         </Row>
       </Grid>
