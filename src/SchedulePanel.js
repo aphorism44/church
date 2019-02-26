@@ -18,7 +18,8 @@ class SchedulePanel extends Component {
             <br/><br/>
             <strong>Upcoming Events - 2019</strong>
             <ul>
-            <li>Sunday, Feb. 24, <em>Annual Church Meeting</em>, takes place after morning worship.</li>
+            <li>Sunday, March 3, <em>Annual Church Meeting</em>, takes place after morning worship (rescheduled due to weather).</li>
+            <li>Wednesday, March 6, <em>Ash Wednesday Services</em>, 6:30 p.m.</li>
             </ul>
           </Col>
         </Row>
