@@ -18,13 +18,7 @@ class SchedulePanel extends Component {
             <br/><br/>
             <strong>Upcoming Events - 2019</strong>
             <ul>
-            <li>Sunday, April 14, <em>Palm Sunday Service</em>, 9:30 a.m.</li>
-            <li>Thursday, April 18, <em>Maundy Thursday Agape' Meal</em>, 6 p.m.</li>
-            <li>Friday, April 19, <em>Good Friday Tenebrae Service</em>, 6 p.m.</li>
-            <ul>
-              <li><strong>Please see the "About" page for more information on Maundy Thursday and Good Friday services.</strong></li>
-            </ul>
-            <li>Sunday, April 21, <em>Easter Celebration, with following breakfast</em>, 9:30 a.m.</li>
+              <li><em>TBA</em></li>
             </ul>
           </Col>
         </Row>
