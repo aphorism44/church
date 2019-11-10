@@ -18,7 +18,10 @@ class SchedulePanel extends Component {
             <br/><br/>
             <strong>Upcoming Events - 2019</strong>
             <ul>
-              <li><em>TBA</em></li>
+              <li><strong>6:30 p.m., Wednesday, Nov. 27.</strong> Service of Thanksgiving</li>
+            </ul>
+            <ul>
+              <li><strong>Sunday, Dec. 1.</strong> First Sunday in Advent. Raising of the Christmas tree, after normal services.</li>
             </ul>
           </Col>
         </Row>
