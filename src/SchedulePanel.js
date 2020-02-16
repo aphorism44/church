@@ -16,12 +16,9 @@ class SchedulePanel extends Component {
           </Col>
           <Col xs={6} md={6} lg={6}>
             <br/><br/>
-            <strong>Upcoming Events - 2019</strong>
+            <strong>Upcoming Events - 2020</strong>
             <ul>
-              <li><strong>6:30 p.m., Wednesday, Nov. 27.</strong> Service of Thanksgiving</li>
-            </ul>
-            <ul>
-              <li><strong>Sunday, Dec. 1.</strong> First Sunday in Advent. Raising of the Christmas tree, after normal services.</li>
+              <li><strong>6:30 p.m., Wednesday, Feb. 26.</strong> Ash Wednesday Service. Preceded by a soup dinner at <strong>5:30 p.m.</strong></li>
             </ul>
           </Col>
         </Row>
