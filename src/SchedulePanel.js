@@ -11,14 +11,16 @@ class SchedulePanel extends Component {
         <Row className="show-grid" fluid="true">
           <Col xs={6} md={6} lg={6}>
               <br/><br/>
-              <strong>Sunday Communion Services</strong>
-              <br/><br/>9:30 a.m., every Sunday
+              <strong>Sunday services, usually held at 9:30 a.m. on Sundays, have been suspended due to the COVID-19 pandemic.</strong>
+              <br/><br/>
           </Col>
           <Col xs={6} md={6} lg={6}>
             <br/><br/>
             <strong>Upcoming Events - 2020</strong>
             <ul>
-              <li><strong>6:30 p.m., Wednesday, Feb. 26.</strong> Ash Wednesday Service. Preceded by a soup dinner at <strong>5:30 p.m.</strong></li>
+              <li><strong>We must stay closed during Holy Week, but will let the community know when we reopen.</strong></li>
+              <li>More resources are available here: <a href="https://www.elca.org/publichealth">#ELCAChurchTogether</a></li>
+              <li>Please call if you wish to receive our e-mail newsletter for the duration of the outbreak.</li>
             </ul>
           </Col>
         </Row>
