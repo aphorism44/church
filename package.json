@@ -14,7 +14,7 @@
     "react-scripts": "1.0.17",
     "bootstrap": ">=4.1.2",
     "macaddress": ">=0.2.9",
-    "lodash": ">=4.17.5",
+    "lodash": ">=4.17.19",
     "hoek": ">=4.2.1",
     "url-parse": ">=1.4.3",
     "cryptiles": ">=4.1.2",
